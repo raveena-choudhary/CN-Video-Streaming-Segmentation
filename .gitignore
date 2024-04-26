@@ -1,0 +1,6 @@
+node_modules/*
+server/uploads/*
+dist/*
+.parcel-cache/*
+.cache/*
+server/node_modules/*
